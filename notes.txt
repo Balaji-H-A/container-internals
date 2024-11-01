@@ -1,0 +1,16 @@
+> docker..?
+	> cheap virtual machines..?
+	> isolated groups of processes running on a single host
+> conditions:
+	> have to run on a single host.
+	> groups of processes.
+	> isoloated
+	> have to fulfill common features..?
+> Enter chroot
+	> Unix OS can change the root of current running process.
+	> aka "jail".
+	> check the "change-root.sh"
+	> bash and dependencies in a jail created by chroot
+> Think: running statically linked binary in a jail is same as running an container image..?
+> the jail can be a process
+
